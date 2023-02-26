@@ -1,0 +1,2 @@
+SELECT * FROM Authors
+ORDER BY city DESC;
